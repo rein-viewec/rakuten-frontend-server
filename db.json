@@ -1,6 +1,76 @@
 {
-    "JPShopItems": [
-      {
+  "JPShopItems": [
+    {
+      "itemId": 1,
+      "shopId": 1,
+      "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
+      "base_sku": "lhqsjpcbz",
+      "sku_jp": "lhqsjpcbz",
+      "unitPrice": 2280,
+      "deliverFrom": "JP",
+      "baseRate": 1.5,
+      "exchangeRate": 3.8,
+      "TWShopItem": {
+        "itemId": 1,
+        "shopId": 1,
+        "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
+        "base_sku": "lhqsjpcbz",
+        "sku_tw": "lhqsjpcbz",
+        "unitPrice": 2000,
+        "barCode": 4897022621001
+      }
+    },
+    {
+      "itemId": 11,
+      "shopId": 11,
+      "itemName": "台湾茶 限定セット（6種類入/パック）　不知春　阿里山烏龍茶　鉄観音茶　軽焙煎　お土産　アフタヌーンティー【台湾直送】【京盛宇】",
+      "base_sku": "padkaka-04",
+      "sku_jp": "padkaka-04",
+      "unitPrice": 2280,
+      "deliverFrom": "JP",
+      "baseRate": 1.5,
+      "exchangeRate": 3.8,
+      "TWShopItem": {
+        "itemId": 11,
+        "shopId": 11,
+        "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
+        "base_sku": "padkaka-04",
+        "sku_tw": "padkaka-04",
+        "unitPrice": 4000,
+        "barCode": 4710137311073
+      }
+    },
+    {
+      "itemId": 21,
+      "shopId": 21,
+      "itemName": "花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
+      "base_sku": "luckygift-003",
+      "sku_jp": "luckygift-003",
+      "unitPrice": 2394,
+      "deliverFrom": "JP",
+      "baseRate": 1.5,
+      "exchangeRate": 3.8,
+      "TWShopItem": {
+        "itemId": 21,
+        "shopId": 21,
+        "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
+        "base_sku": "luckygift-003",
+        "sku_tw": "luckygift-003",
+        "unitPrice": 350,
+        "barCode": 8874101000007
+      }
+    }
+  ],
+  "TWShopItems": [
+    {
+      "itemId": 1,
+      "shopId": 1,
+      "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
+      "base_sku": "lhqsjpcbz",
+      "sku_tw": "lhqsjpcbz",
+      "unitPrice": 2000,
+      "barCode": 4897022621001,
+      "JPShopItem": {
         "itemId": 1,
         "shopId": 1,
         "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
@@ -9,18 +79,18 @@
         "unitPrice": 2280,
         "deliverFrom": "JP",
         "baseRate": 1.5,
-        "exchangeRate": 3.8,
-        "TWShopItem": {
-          "itemId": 1,
-          "shopId": 1,
-          "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-          "base_sku": "lhqsjpcbz",
-          "sku_tw": "lhqsjpcbz",
-          "unitPrice": 2000,
-          "barCode": 4897022621001
-        }
-      },
-      {
+        "exchangeRate": 3.8
+      }
+    },
+    {
+      "itemId": 11,
+      "shopId": 11,
+      "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
+      "base_sku": "padkaka-04",
+      "sku_tw": "padkaka-04",
+      "unitPrice": 4000,
+      "barCode": 4710137311073,
+      "JPShopItem": {
         "itemId": 11,
         "shopId": 11,
         "itemName": "台湾茶 限定セット（6種類入/パック）　不知春　阿里山烏龍茶　鉄観音茶　軽焙煎　お土産　アフタヌーンティー【台湾直送】【京盛宇】",
@@ -29,18 +99,18 @@
         "unitPrice": 2280,
         "deliverFrom": "JP",
         "baseRate": 1.5,
-        "exchangeRate": 3.8,
-        "TWShopItem":{
-          "itemId": 11,
-          "shopId": 11,
-          "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
-          "base_sku": "padkaka-04",
-          "sku_tw": "padkaka-04",
-          "unitPrice": 4000,
-          "barCode": 4710137311073
-        },
-      },
-      {
+        "exchangeRate": 3.8
+      }
+    },
+    {
+      "itemId": 21,
+      "shopId": 21,
+      "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
+      "base_sku": "luckygift-003",
+      "sku_tw": "luckygift-003",
+      "unitPrice": 350,
+      "barCode": 8874101000007,
+      "JPShopItem": {
         "itemId": 21,
         "shopId": 21,
         "itemName": "花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
@@ -49,102 +119,31 @@
         "unitPrice": 2394,
         "deliverFrom": "JP",
         "baseRate": 1.5,
-        "exchangeRate": 3.8,
-        "TWShopItem":{
-          "itemId": 21,
-          "shopId": 21,
-          "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
-          "base_sku": "luckygift-003",
-          "sku_tw": "luckygift-003",
-          "unitPrice": 350,
-          "barCode": 8874101000007
-        }
+        "exchangeRate": 3.8
       }
-    ],
-    "TWShopItems": [
-      {
-        "itemId": 1,
-        "shopId": 1,
-        "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-        "base_sku": "lhqsjpcbz",
-        "sku_tw": "lhqsjpcbz",
-        "unitPrice": 2000,
-        "barCode": 4897022621001,
-        "JPShopItem":{
-          "itemId": 1,
-          "shopId": 1,
-          "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
-          "base_sku": "lhqsjpcbz",
-          "sku_jp": "lhqsjpcbz",
-          "unitPrice": 2280,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        }
-      },
-      {
-        "itemId": 11,
-        "shopId": 11,
-        "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
-        "base_sku": "padkaka-04",
-        "sku_tw": "padkaka-04",
-        "unitPrice": 4000,
-        "barCode": 4710137311073,
-        "JPShopItem":{
-          "itemId": 11,
-          "shopId": 11,
-          "itemName": "台湾茶 限定セット（6種類入/パック）　不知春　阿里山烏龍茶　鉄観音茶　軽焙煎　お土産　アフタヌーンティー【台湾直送】【京盛宇】",
-          "base_sku": "padkaka-04",
-          "sku_jp": "padkaka-04",
-          "unitPrice": 2280,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        }
-      },
-      {
-        "itemId": 21,
-        "shopId": 21,
-        "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
-        "base_sku": "luckygift-003",
-        "sku_tw": "luckygift-003",
-        "unitPrice": 350,
-        "barCode": 8874101000007,
-        "JPShopItem":{
-          "itemId": 21,
-          "shopId": 21,
-          "itemName": "花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
-          "base_sku": "luckygift-003",
-          "sku_jp": "luckygift-003",
-          "unitPrice": 2394,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        }
-      }
-    ],
-    "Shops": [
-      {
-        "shopid": 1,
-        "shopName": "shopName",
-        "shopName_zh": "台灣可夫萊堅果之家",
-        "shopUrl_JP": "doufuzhang-jp",
-        "shopUrl_TW": "bonheurmalljp"
-      },
-      {
-        "shopid": 11,
-        "shopName": "shopName",
-        "shopName_zh": "台灣長谷川商店",
-        "shopUrl_JP": "beehome",
-        "shopUrl_TW": "beehome"
-      },
-      {
-        "shopid": 21,
-        "shopName": "shopName",
-        "shopName_zh": "隱巷裡鑄豆本舖",
-        "shopUrl_JP": "inalley",
-        "shopUrl_TW": "inalley"
-      }
-    ]
-  }
-  
+    }
+  ],
+  "Shops": [
+    {
+      "shopid": 1,
+      "shopName": "shopName",
+      "shopName_zh": "台灣可夫萊堅果之家",
+      "shopUrl_JP": "doufuzhang-jp",
+      "shopUrl_TW": "bonheurmalljp"
+    },
+    {
+      "shopid": 11,
+      "shopName": "shopName",
+      "shopName_zh": "台灣長谷川商店",
+      "shopUrl_JP": "beehome",
+      "shopUrl_TW": "beehome"
+    },
+    {
+      "shopid": 21,
+      "shopName": "shopName",
+      "shopName_zh": "隱巷裡鑄豆本舖",
+      "shopUrl_JP": "inalley",
+      "shopUrl_TW": "inalley"
+    }
+  ]
+}
