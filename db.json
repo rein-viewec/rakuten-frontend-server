@@ -80,6 +80,33 @@
         "shopUrl_JP": "inalley",
         "shopUrl_TW": "inalley"
       }
+    },
+    {
+      "itemId": 31,
+      "shopId": 31,
+      "itemName": "花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
+      "base_sku": "luckygift-003",
+      "sku_jp": "luckygift-003",
+      "unitPrice": 2394,
+      "deliverFrom": "JP",
+      "baseRate": 1.5,
+      "exchangeRate": 3.8,
+      "TWShopItem": {
+        "itemId": 31,
+        "shopId": 31,
+        "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
+        "base_sku": "luckygift-003",
+        "sku_tw": "luckygift-003",
+        "unitPrice": 350,
+        "barCode": 8874101000007
+      },
+      "Shop": {
+        "shopid": 21,
+        "shopName": "shopName3",
+        "shopName_zh": "隱巷裡鑄豆本舖",
+        "shopUrl_JP": "inalley",
+        "shopUrl_TW": "inalley"
+      }
     }
   ],
   "TWShopItems": [
