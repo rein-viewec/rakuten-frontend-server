@@ -18,6 +18,13 @@
         "sku_tw": "lhqsjpcbz",
         "unitPrice": 2000,
         "barCode": 4897022621001
+      },
+      "Shop": {
+        "shopid": 1,
+        "shopName": "shopName",
+        "shopName_zh": "台灣可夫萊堅果之家",
+        "shopUrl_JP": "doufuzhang-jp",
+        "shopUrl_TW": "bonheurmalljp"
       }
     },
     {
@@ -38,6 +45,13 @@
         "sku_tw": "padkaka-04",
         "unitPrice": 4000,
         "barCode": 4710137311073
+      },
+      "Shop": {
+        "shopid": 11,
+        "shopName": "shopName2",
+        "shopName_zh": "台灣長谷川商店",
+        "shopUrl_JP": "beehome",
+        "shopUrl_TW": "beehome"
       }
     },
     {
@@ -58,6 +72,13 @@
         "sku_tw": "luckygift-003",
         "unitPrice": 350,
         "barCode": 8874101000007
+      },
+      "Shop": {
+        "shopid": 21,
+        "shopName": "shopName3",
+        "shopName_zh": "隱巷裡鑄豆本舖",
+        "shopUrl_JP": "inalley",
+        "shopUrl_TW": "inalley"
       }
     }
   ],
@@ -126,21 +147,21 @@
   "Shops": [
     {
       "shopid": 1,
-      "shopName": "shopName",
+      "shopName": "shopName1",
       "shopName_zh": "台灣可夫萊堅果之家",
       "shopUrl_JP": "doufuzhang-jp",
       "shopUrl_TW": "bonheurmalljp"
     },
     {
       "shopid": 11,
-      "shopName": "shopName",
+      "shopName": "shopName2",
       "shopName_zh": "台灣長谷川商店",
       "shopUrl_JP": "beehome",
       "shopUrl_TW": "beehome"
     },
     {
       "shopid": 21,
-      "shopName": "shopName",
+      "shopName": "shopName3",
       "shopName_zh": "隱巷裡鑄豆本舖",
       "shopUrl_JP": "inalley",
       "shopUrl_TW": "inalley"
