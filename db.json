@@ -23,10 +23,10 @@
       },
       "Shop": {
         "shopid": 1,
-        "shopName": "shopName",
-        "shopName_zh": "台灣可夫萊堅果之家",
-        "shopUrl_JP": "doufuzhang-jp",
-        "shopUrl_TW": "bonheurmalljp"
+        "shopName": "shopName-shopcode",
+        "shopName_zh": "oclean日本旗艦店",
+        "shopUrl_JP": "oclean-jp",
+        "shopUrl_TW": "oclean-jp"
       },
       "mappingUnit": {
         "mappingUnit_jp": 1,
@@ -56,10 +56,10 @@
       },
       "Shop": {
         "shopid": 11,
-        "shopName": "shopName",
-        "shopName_zh": "台灣可夫萊堅果之家",
-        "shopUrl_JP": "doufuzhang-jp",
-        "shopUrl_TW": "bonheurmalljp"
+        "shopName": "shopName-shopcode",
+        "shopName_zh": "森菓舖TW",
+        "shopUrl_JP": "senguostore",
+        "shopUrl_TW": "senguostore"
       },
       "mappingUnit": {
         "mappingUnit_jp": 1,
@@ -89,7 +89,7 @@
       },
       "Shop": {
         "shopid": 1,
-        "shopName": "shopName",
+        "shopName": "shopName-shopcode",
         "shopName_zh": "台灣可夫萊堅果之家",
         "shopUrl_JP": "doufuzhang-jp",
         "shopUrl_TW": "bonheurmalljp"
