@@ -1,6 +1,7 @@
 {
   "products": [
     {
+      "id": 1,
       "JPShopItem": {
         "itemId": 1,
         "shopId": 1,
@@ -34,6 +35,7 @@
       }
     },
     {
+      "id": 2,
       "JPShopItem": {
         "itemId": 11,
         "shopId": 11,
@@ -67,6 +69,7 @@
       }
     },
     {
+      "id": 3,
       "JPShopItem": {
         "itemId": 21,
         "shopId": 21,
@@ -102,6 +105,7 @@
   ],
   "Shops": [
     {
+      "id": 1,
       "shopid": 1,
       "shopName": "shopName1",
       "shopName_zh": "台灣可夫萊堅果之家",
@@ -109,6 +113,7 @@
       "shopUrl_TW": "bonheurmalljp"
     },
     {
+      "id": 2,
       "shopid": 11,
       "shopName": "shopName2",
       "shopName_zh": "台灣長谷川商店",
@@ -116,6 +121,7 @@
       "shopUrl_TW": "beehome"
     },
     {
+      "id": 3,
       "shopid": 21,
       "shopName": "shopName3",
       "shopName_zh": "隱巷裡鑄豆本舖",
