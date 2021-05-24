@@ -31,7 +31,7 @@
           "shopName_zh": "oclean日本旗艦店",
           "shopUrl_JP": "oclean-jp",
           "shopUrl_TW": "oclean-jp"
-        },
+        }
       }
     },
     {
@@ -65,7 +65,7 @@
           "shopName_zh": "森菓舖TW",
           "shopUrl_JP": "senguostore",
           "shopUrl_TW": "senguostore"
-        },
+        }
       }
     },
     {
@@ -99,7 +99,7 @@
           "shopName_zh": "台灣可夫萊堅果之家",
           "shopUrl_JP": "doufuzhang-jp",
           "shopUrl_TW": "bonheurmalljp"
-        },
+        }
       }
     }
   ],
