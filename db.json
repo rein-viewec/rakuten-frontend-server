@@ -1,108 +1,129 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "mappingUnit": {
-        "mappingUnit_jp": 1,
-        "mappingUnit_tw": 1,
-        "JPShopItem": {
-          "itemId": 1,
-          "shopId": 1,
-          "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
-          "base_sku": "lhqsjpcbz",
-          "sku_jp": "lhqsjpcbz",
-          "unitPrice": 2280,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        },
-        "TWShopItem": {
-          "itemId": 1,
-          "shopId": 1,
-          "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-          "base_sku": "lhqsjpcbz",
-          "sku_tw": "lhqsjpcbz",
-          "unitPrice": 2000,
-          "barCode": 4897022621001
-        },
-        "Shop": {
-          "shopid": 1,
-          "shopName": "shopName-shopcode",
-          "shopName_zh": "oclean日本旗艦店",
-          "shopUrl_JP": "oclean-jp",
-          "shopUrl_TW": "oclean-jp"
+  "products": {
+    "products": [
+      {
+        "id": 1,
+        "mappingUnit": {
+          "mappingUnit_jp": 1,
+          "mappingUnit_tw": 1,
+          "JPShopItem": {
+            "itemId": 1,
+            "shopId": 1,
+            "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
+            "base_sku": "lhqsjpcbz",
+            "sku_jp": "lhqsjpcbz",
+            "unitPrice": 2280,
+            "deliverFrom": "JP",
+            "baseRate": 1.5,
+            "exchangeRate": 3.8
+          },
+          "TWShopItem": {
+            "itemId": 1,
+            "shopId": 1,
+            "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
+            "base_sku": "lhqsjpcbz",
+            "sku_tw": "lhqsjpcbz",
+            "unitPrice": 2000,
+            "barCode": 4897022621001
+          },
+          "Shop": {
+            "shopid": 1,
+            "shopName": "shopName-shopcode",
+            "shopName_zh": "oclean日本旗艦店",
+            "shopUrl_JP": "oclean-jp",
+            "shopUrl_TW": "oclean-jp"
+          }
+        }
+      },
+      {
+        "id": 2,
+        "mappingUnit": {
+          "mappingUnit_jp": 1,
+          "mappingUnit_tw": 2,
+          "JPShopItem": {
+            "itemId": 11,
+            "shopId": 11,
+            "itemName": " 台湾茶 限定セット（6種類入/パック）　不知春　阿里山烏龍茶　鉄観音茶　軽焙煎　お土産　アフタヌーンティー【台湾直送】【京盛宇】",
+            "base_sku": "lhqsjpcbz",
+            "sku_jp": "lhqsjpcbz",
+            "unitPrice": 2280,
+            "deliverFrom": "JP",
+            "baseRate": 1.5,
+            "exchangeRate": 3.8
+          },
+          "TWShopItem": {
+            "itemId": 11,
+            "shopId": 11,
+            "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
+            "base_sku": "lhqsjpcbz",
+            "sku_tw": "lhqsjpcbz",
+            "unitPrice": 2000,
+            "barCode": 4897022621001
+          },
+          "Shop": {
+            "shopid": 11,
+            "shopName": "shopName-shopcode",
+            "shopName_zh": "森菓舖TW",
+            "shopUrl_JP": "senguostore",
+            "shopUrl_TW": "senguostore"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "mappingUnit": {
+          "mappingUnit_jp": 1,
+          "mappingUnit_tw": 2,
+          "JPShopItem": {
+            "itemId": 21,
+            "shopId": 21,
+            "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
+            "base_sku": "lhqsjpcbz",
+            "sku_jp": "lhqsjpcbz",
+            "unitPrice": 2280,
+            "deliverFrom": "JP",
+            "baseRate": 1.5,
+            "exchangeRate": 3.8
+          },
+          "TWShopItem": {
+            "itemId": 21,
+            "shopId": 21,
+            "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
+            "base_sku": "lhqsjpcbz",
+            "sku_tw": "lhqsjpcbz",
+            "unitPrice": 2000,
+            "barCode": 4897022621001
+          },
+          "Shop": {
+            "shopid": 1,
+            "shopName": "shopName-shopcode",
+            "shopName_zh": "台灣可夫萊堅果之家",
+            "shopUrl_JP": "doufuzhang-jp",
+            "shopUrl_TW": "bonheurmalljp"
+          }
         }
       }
-    },
-    {
-      "id": 2,
-      "mappingUnit": {
-        "mappingUnit_jp": 1,
-        "mappingUnit_tw": 2,
-        "JPShopItem": {
-          "itemId": 11,
-          "shopId": 11,
-          "itemName": " 台湾茶 限定セット（6種類入/パック）　不知春　阿里山烏龍茶　鉄観音茶　軽焙煎　お土産　アフタヌーンティー【台湾直送】【京盛宇】",
-          "base_sku": "lhqsjpcbz",
-          "sku_jp": "lhqsjpcbz",
-          "unitPrice": 2280,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        },
-        "TWShopItem": {
-          "itemId": 11,
-          "shopId": 11,
-          "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
-          "base_sku": "lhqsjpcbz",
-          "sku_tw": "lhqsjpcbz",
-          "unitPrice": 2000,
-          "barCode": 4897022621001
-        },
-        "Shop": {
-          "shopid": 11,
-          "shopName": "shopName-shopcode",
-          "shopName_zh": "森菓舖TW",
-          "shopUrl_JP": "senguostore",
-          "shopUrl_TW": "senguostore"
-        }
-      }
-    },
-    {
-      "id": 3,
-      "mappingUnit": {
-        "mappingUnit_jp": 1,
-        "mappingUnit_tw": 2,
-        "JPShopItem": {
-          "itemId": 21,
-          "shopId": 21,
-          "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
-          "base_sku": "lhqsjpcbz",
-          "sku_jp": "lhqsjpcbz",
-          "unitPrice": 2280,
-          "deliverFrom": "JP",
-          "baseRate": 1.5,
-          "exchangeRate": 3.8
-        },
-        "TWShopItem": {
-          "itemId": 21,
-          "shopId": 21,
-          "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
-          "base_sku": "lhqsjpcbz",
-          "sku_tw": "lhqsjpcbz",
-          "unitPrice": 2000,
-          "barCode": 4897022621001
-        },
-        "Shop": {
-          "shopid": 1,
-          "shopName": "shopName-shopcode",
-          "shopName_zh": "台灣可夫萊堅果之家",
-          "shopUrl_JP": "doufuzhang-jp",
-          "shopUrl_TW": "bonheurmalljp"
-        }
+    ],
+    "pagination": {
+      "productKeywordTypes": 1,
+      "searchProductKeyword": "string",
+      "deliverFrom": 1,
+      "dateType": 1,
+      "startDatetime": "2021-01-01T23:59:59+0800",
+      "endDatetime": "2021-01-01T23:59:59+0800",
+      "PaginationResponseModel": {
+        "responseRecordsAmount": 30,
+        "responsePage": 1,
+        "totalPages": 20,
+        "SortModelList": [
+          {
+            "sortColumn": 1,
+            "sortDirection": 1
+          }
+        ]
       }
     }
-  ],
+  },
   "Shops": [
     {
       "id": 1,
@@ -128,5 +149,24 @@
       "shopUrl_JP": "inalley",
       "shopUrl_TW": "inalley"
     }
-  ]
+  ],
+  "pagination": {
+    "productKeywordTypes": 1,
+    "searchProductKeyword": "string",
+    "deliverFrom": 1,
+    "dateType": 1,
+    "startDatetime": "2021-01-01T23:59:59+0800",
+    "endDatetime": "2021-01-01T23:59:59+0800",
+    "PaginationResponseModel": {
+      "responseRecordsAmount": 30,
+      "responsePage": 1,
+      "totalPages": 10,
+      "SortModelList": [
+        {
+          "sortColumn": 1,
+          "sortDirection": 1
+        }
+      ]
+    }
+  }
 }
