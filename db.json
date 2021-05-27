@@ -149,24 +149,5 @@
       "shopUrl_JP": "inalley",
       "shopUrl_TW": "inalley"
     }
-  ],
-  "pagination": {
-    "productKeywordTypes": 1,
-    "searchProductKeyword": "string",
-    "deliverFrom": 1,
-    "dateType": 1,
-    "startDatetime": "2021-01-01T23:59:59+0800",
-    "endDatetime": "2021-01-01T23:59:59+0800",
-    "PaginationResponseModel": {
-      "responseRecordsAmount": 30,
-      "responsePage": 1,
-      "totalPages": 10,
-      "SortModelList": [
-        {
-          "sortColumn": 1,
-          "sortDirection": 1
-        }
-      ]
-    }
-  }
+  ]
 }
