@@ -1,6 +1,6 @@
 {
   "products": {
-    "products": [
+    "items": [
       {
         "id": 1,
         "mappingUnit": {
@@ -106,9 +106,9 @@
     ],
     "paginationResponseModel": {
       "responseRecordsAmount": 50,
-      "responsePage": 1,
+      "responsePage": 4,
       "recordPerPage": 50,
-      "totalPages": 10
+      "totalPages": 7
     }
   },
   "Shops": [
