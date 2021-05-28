@@ -104,7 +104,7 @@
         }
       }
     ],
-    "PaginationResponseModel": {
+    "paginationResponseModel": {
       "responseRecordsAmount": 50,
       "responsePage": 1,
       "recordPerPage": 50,
