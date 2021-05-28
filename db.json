@@ -112,9 +112,10 @@
       "startDatetime": "2021-01-01T23:59:59+0800",
       "endDatetime": "2021-01-01T23:59:59+0800",
       "PaginationResponseModel": {
-        "responseRecordsAmount": 30,
+        "responseRecordsAmount": 50,
         "responsePage": 1,
-        "totalPages": 20,
+        "recordPerPage": 50,
+        "totalPages": 10,
         "SortModelList": [
           {
             "sortColumn": 1,
