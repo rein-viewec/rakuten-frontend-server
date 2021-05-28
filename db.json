@@ -107,7 +107,7 @@
     "paginationResponseModel": {
       "responseRecordsAmount": 50,
       "responsePage": 4,
-      "recordPerPage": 50,
+      "recordPerPage": 150,
       "totalPages": 7
     }
   },
