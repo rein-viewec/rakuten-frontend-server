@@ -29,8 +29,8 @@
           "Shop": {
             "shopid": 1,
             "name": "oclean日本旗艦店",
-            "shopUrl_JP": "oclean-jp",
-            "shopUrl_TW": "oclean-jp"
+            "shop_url_jp": "oclean-jp",
+            "shop_url_tw": "oclean-jp"
           }
         }
       },
@@ -62,8 +62,8 @@
           "Shop": {
             "shopid": 11,
             "name": "森菓舖TW",
-            "shopUrl_JP": "senguostore",
-            "shopUrl_TW": "senguostore"
+            "shop_url_jp": "senguostore",
+            "shop_url_tw": "senguostore"
           }
         }
       },
@@ -95,8 +95,8 @@
           "Shop": {
             "shopid": 1,
             "name": "台灣可夫萊堅果之家",
-            "shopUrl_JP": "doufuzhang-jp",
-            "shopUrl_TW": "bonheurmalljp"
+            "shop_url_jp": "doufuzhang-jp",
+            "shop_url_tw": "bonheurmalljp"
           }
         }
       }
@@ -203,16 +203,16 @@
       "id": 26,
       "shopid": 26,
       "name": "台灣一杯青",
-      "shopUrl_JP": "ome",
-      "shopUrl_TW": "ome",
+      "shop_url_jp": "ome",
+      "shop_url_tw": "ome",
       "items": null
     },
     {
       "id": 27,
       "shopid": 27,
       "name": "SC.socks 小創襪",
-      "shopUrl_JP": "bee",
-      "shopUrl_TW": "bee",
+      "shop_url_jp": "bee",
+      "shop_url_tw": "bee",
       "items": null
     }
   ]
