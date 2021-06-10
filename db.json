@@ -172,6 +172,40 @@
               "barCode": 4897022621001
             }
           }
+        },
+        {
+          "id": 3,
+          "mappingUnit": {
+            "mappingUnit_jp": 1,
+            "mappingUnit_tw": 2,
+            "JPShopItem": {
+              "itemId": 21,
+              "shopId": 21,
+              "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
+              "base_sku": "lhqsjpcbz",
+              "sku_jp": "lhqsjpcbz",
+              "unitPrice": 2280,
+              "deliverFrom": "JP",
+              "baseRate": 1.5,
+              "exchangeRate": 3.8
+            },
+            "TWShopItem": {
+              "itemId": 21,
+              "shopId": 21,
+              "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
+              "base_sku": "lhqsjpcbz",
+              "sku_tw": "lhqsjpcbz",
+              "unitPrice": 2000,
+              "barCode": 4897022621001
+            },
+            "Shop": {
+              "shopid": 1,
+              "shopName": "shopName-shopcode",
+              "shopName_zh": "台灣可夫萊堅果之家",
+              "shopUrl_JP": "doufuzhang-jp",
+              "shopUrl_TW": "bonheurmalljp"
+            }
+          }
         }
       ]
     },
@@ -181,35 +215,7 @@
       "name": "台灣一杯青",
       "shopUrl_JP": "ome",
       "shopUrl_TW": "ome",
-      "shopItems": [
-        {
-          "id": 1,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 1,
-            "JPShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
-        }
-      ]
+      "shopItems": null
     },
     {
       "id": 27,
@@ -217,35 +223,7 @@
       "name": "SC.socks 小創襪",
       "shopUrl_JP": "bee",
       "shopUrl_TW": "bee",
-      "shopItems": [
-        {
-          "id": 1,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 1,
-            "JPShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
-        }
-      ]
+      "shopItems": null
     }
   ]
 }
