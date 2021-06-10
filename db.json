@@ -206,7 +206,7 @@
       "name": "台灣一杯青",
       "shopUrl_JP": "ome",
       "shopUrl_TW": "ome",
-      "items": [
+      "shopItems": [
         {
           "id": 1,
           "mappingUnit": {
@@ -295,7 +295,7 @@
       "name": "SC.socks 小創襪",
       "shopUrl_JP": "bee",
       "shopUrl_TW": "bee",
-      "items": [
+      "shopItems": [
         {
           "id": 1,
           "mappingUnit": {
@@ -376,7 +376,7 @@
               "barCode": 4897022621001
             }
           }
-        },
+        }
       ]
     }
   ]
