@@ -113,7 +113,7 @@
   },
   "Shops": [
     {
-      "id": 1,
+      "id": 25,
       "name": "Warm Warm Bee 蜜蜂的家",
       "shop_url_tw": "beehome",
       "shop_url_jp": "beehome",
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 26,
       "shopid": 26,
       "shopName": "台灣一杯青",
       "shopUrl_JP": "beehome",
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 27,
       "shopid": 27,
       "shopName": "SC.socks 小創襪",
       "shopUrl_JP": "beehome",
