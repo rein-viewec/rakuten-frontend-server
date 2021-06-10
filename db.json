@@ -226,7 +226,7 @@
     },
     {
       "id": 26,
-      "shopName": "台灣一杯青",
+      "name": "台灣一杯青",
       "shopUrl_JP": "ome",
       "shopUrl_TW": "ome",
       "items": [
@@ -338,7 +338,7 @@
     },
     {
       "id": 27,
-      "shopName": "SC.socks 小創襪",
+      "name": "SC.socks 小創襪",
       "shopUrl_JP": "bee",
       "shopUrl_TW": "bee",
       "items": [
