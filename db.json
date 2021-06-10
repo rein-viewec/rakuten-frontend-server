@@ -271,33 +271,6 @@
               "barCode": 4897022621001
             }
           }
-        },
-        {
-          "id": 2,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 1,
-            "JPShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "自転車チェーン 10速 チタンブラック クイックリンク2本付属 116Lシマノ スラム対応 変速チェーン ロードバイク マウンテンバイク 台湾製 【TAYA CHAIN】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 1,
-              "shopId": 1,
-              "itemName": "〈TAYA大亞鏈條〉10速自行車鏈條 / 鈦黑配色 / 附10速快扣2組 / 116目 盒裝 / 適配SRAM, Shimano 10速變速系統 台灣製【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
         }
       ]
     }
