@@ -28,8 +28,7 @@
           },
           "Shop": {
             "shopid": 1,
-            "shopName": "shopName-shopcode",
-            "shopName_zh": "oclean日本旗艦店",
+            "name": "oclean日本旗艦店",
             "shopUrl_JP": "oclean-jp",
             "shopUrl_TW": "oclean-jp"
           }
@@ -62,8 +61,7 @@
           },
           "Shop": {
             "shopid": 11,
-            "shopName": "shopName-shopcode",
-            "shopName_zh": "森菓舖TW",
+            "name": "森菓舖TW",
             "shopUrl_JP": "senguostore",
             "shopUrl_TW": "senguostore"
           }
@@ -96,8 +94,7 @@
           },
           "Shop": {
             "shopid": 1,
-            "shopName": "shopName-shopcode",
-            "shopName_zh": "台灣可夫萊堅果之家",
+            "name": "台灣可夫萊堅果之家",
             "shopUrl_JP": "doufuzhang-jp",
             "shopUrl_TW": "bonheurmalljp"
           }
@@ -118,7 +115,7 @@
       "name": "Warm Warm Bee 蜜蜂的家",
       "shop_url_tw": "beeHome",
       "shop_url_jp": "beeHome",
-      "shopItems": [
+      "items": [
         {
           "id": 1,
           "mappingUnit": {
@@ -200,8 +197,7 @@
             },
             "Shop": {
               "shopid": 1,
-              "shopName": "shopName-shopcode",
-              "shopName_zh": "台灣可夫萊堅果之家",
+              "name": "台灣可夫萊堅果之家",
               "shopUrl_JP": "doufuzhang-jp",
               "shopUrl_TW": "bonheurmalljp"
             }
@@ -215,7 +211,7 @@
       "name": "台灣一杯青",
       "shopUrl_JP": "ome",
       "shopUrl_TW": "ome",
-      "shopItems": null
+      "items": null
     },
     {
       "id": 27,
@@ -223,7 +219,7 @@
       "name": "SC.socks 小創襪",
       "shopUrl_JP": "bee",
       "shopUrl_TW": "bee",
-      "shopItems": null
+      "items": null
     }
   ]
 }
