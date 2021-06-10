@@ -198,33 +198,6 @@
               "barCode": 4897022621001
             }
           }
-        },
-        {
-          "id": 4,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 2,
-            "JPShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
         }
       ]
     },
@@ -308,33 +281,6 @@
               "itemId": 11,
               "shopId": 11,
               "itemName": "京盛宇｜台湾茶 限定セット - ｜不知春、金萱、輕焙凍頂、鐵觀音、白毫茉莉、蜜香貴妃６パック入 ｜ 7 ティーバッグセット【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
-        },
-        {
-          "id": 4,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 2,
-            "JPShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
               "base_sku": "lhqsjpcbz",
               "sku_tw": "lhqsjpcbz",
               "unitPrice": 2000,
@@ -431,33 +377,6 @@
             }
           }
         },
-        {
-          "id": 4,
-          "mappingUnit": {
-            "mappingUnit_jp": 1,
-            "mappingUnit_tw": 2,
-            "JPShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": " 花甜喜事丸形ヌガーギフトボックス（225g/15枚入）お菓子　アフタヌーンティー　お土産　ピーナッツお菓子【喜之坊】【台湾直送】",
-              "base_sku": "lhqsjpcbz",
-              "sku_jp": "lhqsjpcbz",
-              "unitPrice": 2280,
-              "deliverFrom": "JP",
-              "baseRate": 1.5,
-              "exchangeRate": 3.8
-            },
-            "TWShopItem": {
-              "itemId": 21,
-              "shopId": 21,
-              "itemName": "【喜之坊】花甜喜事圓片牛軋糖15片入/盒(每片約15g)★『一天賣出500包的好滋味』★暢銷冠軍圓片牛軋糖【直送日本】",
-              "base_sku": "lhqsjpcbz",
-              "sku_tw": "lhqsjpcbz",
-              "unitPrice": 2000,
-              "barCode": 4897022621001
-            }
-          }
-        }
       ]
     }
   ]
