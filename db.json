@@ -117,7 +117,7 @@
       "name": "Warm Warm Bee 蜜蜂的家",
       "shop_url_tw": "beeHome",
       "shop_url_jp": "beeHome",
-      "items": [
+      "shopItems": [
         {
           "id": 1,
           "mappingUnit": {
