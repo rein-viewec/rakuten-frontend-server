@@ -114,10 +114,10 @@
   "Shops": [
     {
       "id": 25,
-      "name": "Warm Warm Bee 蜜蜂的家",
-      "shop_url_tw": "beehome",
-      "shop_url_jp": "beehome",
       "shopid": 25,
+      "name": "Warm Warm Bee 蜜蜂的家",
+      "shop_url_tw": "beeHome",
+      "shop_url_jp": "beeHome",
       "items": [
         {
           "mappingUnit": {
@@ -229,8 +229,8 @@
       "id": 26,
       "shopid": 26,
       "shopName": "台灣一杯青",
-      "shopUrl_JP": "beehome",
-      "shopUrl_TW": "beehome",
+      "shopUrl_JP": "ome",
+      "shopUrl_TW": "ome",
       "items": [
         {
           "mappingUnit": {
@@ -342,8 +342,8 @@
       "id": 27,
       "shopid": 27,
       "shopName": "SC.socks 小創襪",
-      "shopUrl_JP": "beehome",
-      "shopUrl_TW": "beehome",
+      "shopUrl_JP": "bee",
+      "shopUrl_TW": "bee",
       "items": [
         {
           "mappingUnit": {
